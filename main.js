@@ -18,9 +18,6 @@ function result() {
     let insertX = ['Willy the Goblin' , 'Big Daddy', 'Father Christmas'
     ];
 
-        let insertX = ['Willy the Goblin' , 'Big Daddy' , 'Father Christmas'
-    ];
-
     let insertY = ['the soup kitchen' , 'Disneyland' , 'the White House'
     ];
 
